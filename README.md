@@ -5,3 +5,4 @@ hotfixes in a sane manner.
 
 # Features
 * Feature 1
+* Feature 3
