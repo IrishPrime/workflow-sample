@@ -1,3 +1,3 @@
 # Feature 4
 
-An complete feature for enlightened users.
+A complete feature for enlightened users.
