@@ -4,3 +4,4 @@ team understands it and that we are able to easily release features and
 hotfixes in a sane manner.
 
 # Features
+* Feature 1
